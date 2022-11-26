@@ -1,7 +1,7 @@
 var products = [
-  {"filterCode": "flowerpot", "code": "花盆-001", "name": "玫瑰花盆", "img": "https://gitee.com/revertXc/revertXc/raw/master/images/a/1.jpg"},
-  {"filterCode": "flowerpot", "code": "花盆-002", "name": "花盆", "img": "https://gitee.com/revertXc/revertXc/raw/master/images/a/2.jpg"},
-  {"filterCode": "flowerpot", "code": "花盆-003", "name": "石榴", "img": "https://gitee.com/revertXc/revertXc/raw/master/images/a/3.jpg"},
+  {"filterCode": "flowerpot", "code": "花盆-001", "name": "玫瑰花盆", "img": "images/a/1.jpg"},
+  {"filterCode": "flowerpot", "code": "花盆-002", "name": "花盆", "img": "images/a/2.jpg"},
+  {"filterCode": "flowerpot", "code": "花盆-003", "name": "石榴", "img": "images/a/3.jpg"},
 ]
 
 
