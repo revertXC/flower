@@ -38,7 +38,7 @@ jQuery(document).ready(function($){
 
       $('.filter-wrapper li a').click(function(){
 
-          var $this = $(this), filterValue = $this.attr('data-filter');
+        var $this = $(this), filterValue = $this.attr('data-filter');
 
       $container.isotope({ 
         filter: filterValue,
