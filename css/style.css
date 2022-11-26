@@ -529,6 +529,11 @@ a.icon {
   color: #ffffff;
 }
 
+.selected {
+  background: #111112;
+  color: #ffffff !important;
+}
+
 /*isotope box css*/
 .iso-box-section {
     width: 100%;
